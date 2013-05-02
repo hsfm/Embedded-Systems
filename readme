@@ -1,0 +1,10 @@
+Verschiedene Projekte aus der Vertiefungsrichtung "Embedded Systems"
+
+Microcontroller (8085 [Assembler]):
+	Echoserver
+	Ampelschaltung
+	
+Embedded Networking (Atmel STK-600 [ANSI C]:
+	Implementierung des I2C-Protokolls
+	Ansteuerung eines Hitachi HD44780 LCD controllers
+	
